@@ -1,4 +1,5 @@
 foo
+bar
 Blah
 Creating new file in oct demo
 saving
